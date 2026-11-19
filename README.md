@@ -29,7 +29,7 @@ Write-ups, technical breakdowns, and exploit scripts from the CTF events our tea
 | :--- | :--- |
 | Vanishzh | Ryco Poetra Widjaya |
 | Cipher-4O4 | M.Nur Izzatul Huda |
-| Misarah | Widuamaziana |
+| Misarah | Rifky Eka Pradipta |
 
 <br>
 
