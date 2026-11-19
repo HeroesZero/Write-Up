@@ -4,8 +4,6 @@
 
   **Capture &nbsp;·&nbsp; Analyze &nbsp;·&nbsp; Exploit &nbsp;·&nbsp; Document**
 
-  <a href="#write-ups">Write-ups</a> &nbsp;·&nbsp; <a href="#team">Team</a> &nbsp;·&nbsp; <a href="#about">About</a>
-
   ![events](https://img.shields.io/badge/events-2-e5e7eb?style=flat-square&labelColor=21262d)
   ![format](https://img.shields.io/badge/format-PDF-e5e7eb?style=flat-square&labelColor=21262d)
   ![status](https://img.shields.io/badge/status-active-e5e7eb?style=flat-square&labelColor=21262d)
@@ -29,8 +27,8 @@ Write-ups, technical breakdowns, and exploit scripts from the CTF events our tea
 
 | Handle | Name |
 | :--- | :--- |
-| Vanishzh | Ruco Poetra Widjaya |
-| Sempor | Itoankub |
+| Vanishzh | Ryco Poetra Widjaya |
+| Cipher-4O4 | M.Nur Izzatul Huda |
 | Misarah | Widuamaziana |
 
 <br>
