@@ -1,6 +1,12 @@
 <div align="center">
 
-  <!-- Banner Utama -->
+  <!-- LOGO TIM (Paling atas) -->
+  <img src="Heroes Zero.png" alt="Heroes Zero Logo" width="150" height="150">
+
+  <!-- Spasi tipis -->
+  <br><br>
+
+  <!-- Banner Utama (Silakan sesuaikan jika ingin tetap pakai banner ini di bawah logo, atau hapus baris ini jika tidak perlu) -->
   <img src="https://raw.githubusercontent.com/HeroesZero/Write-Up-Play-It-Plus/main/banner.png" alt="Z3RODAY Write-up Archive Banner" width="100%">
 
   # 🏆 ZeroDay SMKN 1 Boyolangu - CTF Write-up Archive
