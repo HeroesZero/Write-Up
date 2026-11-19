@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.svg" alt="ZeroDay - CTF Write-up Archive" width="100%">
+  <img src="banner.svg" alt="ZeroDay - CTF Write-up Archive" width="100%">
 
   <br>
 
